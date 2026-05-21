@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
 
-  <br><br>
+  <br>
 
   <h3>🤝 Connect With Me</h3>
 
