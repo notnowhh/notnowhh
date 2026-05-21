@@ -14,9 +14,9 @@
 
   <br>
 
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-  <a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/badge/Twitter-0D1117?style=flat&logo=twitter&logoColor=white" alt="Twitter"/></a>&nbsp;
-  <a href="YOUR_TELEGRAM_URL"><img src="https://img.shields.io/badge/Telegram-0D1117?style=flat&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://www.linkedin.com/in/jishin4t/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://x.com/notnowhh"><img src="https://img.shields.io/badge/Twitter-0D1117?style=flat&logo=twitter&logoColor=white" alt="Twitter"/></a>&nbsp;
+  <a href="https://t.me/notnowwh"><img src="https://img.shields.io/badge/Telegram-0D1117?style=flat&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="mailto:jishin4t@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
